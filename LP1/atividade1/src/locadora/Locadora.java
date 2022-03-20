@@ -24,7 +24,7 @@ public class Locadora {
 		locadora.NovaLocacao("Taubate","16/05/2022", "21/05/2022","23/05/2022", carro1);
 		locadora.NovaLocacao("Sao Paulo","01/05/2022", "09/05/2022","14/05/2022", carro2);
 		
-		
+		   
 		
 		locadora.ListarLocacoes();
 		
